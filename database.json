@@ -1,24 +1,19 @@
 {
   "jokes": [
     {
-      "id": 1,
-      "text": "I went to buy some camo pants but couldn’t find any.",
-      "told": false
-    },
-    {
       "id": 2,
       "text": "I always find elevator jokes to be uplifting.",
-      "told": false
+      "told": true
     },
     {
       "id": 3,
       "text": "Most people are shocked when they find out how bad I am as an electrician.",
-      "told": true
+      "told": false
     },
     {
       "id": 4,
       "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
-      "told": false
+      "told": true
     },
     {
       "id": 5,
@@ -29,6 +24,16 @@
       "text": "\"Why don’t programmers like nature? It has too many bugs.\" 🐛💻",
       "told": false,
       "id": 6
+    },
+    {
+      "text": "\"Why do JavaScript developers wear glasses? Because they don’t C#.\" 👓💻",
+      "told": false,
+      "id": 7
+    },
+    {
+      "text": "How do you drown a blond? Put a Scratch-n-Sniff sticker at the bottom of a pool?",
+      "told": true,
+      "id": 8
     }
   ]
 }
